@@ -1,0 +1,28 @@
+/* aplica o estilo na tag com id container */
+#container{
+    margin-top: 50px;
+    margin-left: 20%;
+    width:800px;
+    background-color: tomato;
+}
+/* aplica o estilo a todo form na página*/
+form {
+    margin-left:20px;
+    color:#ffffff;
+    padding-bottom: 20px;
+}
+/* aplica o estilo a todo h1 que estiver dentro de um form*/
+form h1{
+   font-size: 30px;
+   font-weight:bold;
+}
+
+/* aplica o estilo a todas as DIVs que seguem dentro do form*/
+form div{
+    margin-top:5px;
+    margin-left: 1px;
+}
+.botao{
+    margin-top:10px;
+}
+
